@@ -1,16 +1,14 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class TestingScript : MonoBehaviour {
+public class TestingScript : MonoBehaviour 
+{
 
-	// Use this for initialization
-	void Start () {
+	void Start () 
+    {
         int j = 0;
-	int i = 0;
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
+	    int i = 0;
+        int k = i + j;
 	}
 }
+//dngmkhgjyhtsgrhfdfhmj,gg
