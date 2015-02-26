@@ -9,6 +9,7 @@ public class TestingScript : MonoBehaviour
         int j = 0;
 	    int i = 0;
         int k = i + j;
+        int m = k * 3;
 	}
 }
 //dngmkhgjyhtsgrhfdfhmj,gg
